@@ -8,5 +8,4 @@ core/pipeline_configuration.yml
 */pipeline_configuration.yml
 
 # temp ignore list
-env/includes/
 

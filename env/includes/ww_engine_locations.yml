@@ -17,35 +17,35 @@
 #Katana
 engines.tk-katana.location:
   type: path
-  linux_path: /westworld/inhouse/tool/shotgun/engine/tk-katana
+  linux_path: /storenext/inhouse/tool/shotgun/engine/tk-katana
   windows_path: \\10.0.0.148\inhouse\tool\shotgun\engine\tk-katana
 
 #clarisse
 engines.tk-clarisse.location:
   type: path
-  linux_path: /westworld/inhouse/tool/shotgun/engine/tk-clarisse
+  linux_path: /storenext/inhouse/tool/shotgun/engine/tk-clarisse
   windows_path: \\10.0.0.148\inhouse\tool\shotgun\engine\tk-clarisse
 
 #3de
 engines.tk-3de4.location:
   type: path
-  linux_path: /westworld/inhouse/tool/shotgun/engine/tk-3de4
+  linux_path: /storenext/inhouse/tool/shotgun/engine/tk-3de4
   windows_path: \\10.0.0.148\inhouse\tool\shotgun\engine\tk-3de4
 
 # Houdini
 engines.tk-houdini.location:
   type: path
-  linux_path: /westworld/inhouse/tool/shotgun/engine/tk-houdini
+  linux_path: /storenext/inhouse/tool/shotgun/engine/tk-houdini
   windows_path: \\10.0.0.148\inhouse\tool\shotgun\engine\tk-houdini
 
 # Unreal
 engines.tk-unreal.location:
   type: path
-  linux_path: /westworld/inhouse/pipeline/shotgun/engine/tk-unreal
+  linux_path: /storenext/inhouse/pipeline/shotgun/engine/tk-unreal
   windows_path: \\10.0.40.42\inhouse\pipeline\shotgun\engine\tk-unreal
 
 # Mari
 engines.tk-mari.location:
   type: path
-  linux_path: /westworld/inhouse/tool/shotgun/engine/tk-mari
+  linux_path: /storenext/inhouse/tool/shotgun/engine/tk-mari
   windows_path: \\10.0.0.148\inhouse\tool\shotgun\engine\tk-mari
