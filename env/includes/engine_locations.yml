@@ -26,49 +26,49 @@ engines.tk-3dsmaxplus.location:
 engines.tk-desktop.location:
   type: app_store
   name: tk-desktop
-  version: v2.5.11
+  version: v2.8.1
 
 # Flame
 engines.tk-flame.location:
   type: app_store
   name: tk-flame
-  version: v1.15.6
+  version: v1.19.10
 
 # Maya
 engines.tk-maya.location:
   type: app_store
   name: tk-maya
-  version: v0.11.1
+  version: v0.13.8
 
 # Motion Builder
 engines.tk-motionbuilder.location:
   type: app_store
   name: tk-motionbuilder
-  version: v0.5.2
+  version: v0.8.6
 
 # Nuke
 engines.tk-nuke.location:
   type: app_store
   name: tk-nuke
-  version: v0.13.0
+  version: v0.16.0
 
 # Photoshop
 engines.tk-photoshopcc.location:
   type: app_store
   name: tk-photoshopcc
-  version: v1.8.2
+  version: v1.12.0
 
 # Shell
 engines.tk-shell.location:
   type: app_store
   name: tk-shell
-  version: v0.8.1
+  version: v0.10.2
 
 # Shotgun
 engines.tk-shotgun.location:
   type: app_store
   name: tk-shotgun
-  version: v0.9.0
+  version: v0.11.1
 
 #Katana
 engines.tk-katana.location: '@engines.tk-katana.location'
