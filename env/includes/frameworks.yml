@@ -62,6 +62,6 @@ frameworks:
   tk-framework-unrealqt_v1.x.x:
     location:
       type: path
-      linux_path: /westworld/inhouse/pipeline/shotgun/framework/tk-framework-unrealqt
+      linux_path: /storenext/inhouse/pipeline/shotgun/framework/tk-framework-unrealqt
       windows_path: \\10.0.40.42\inhouse\pipeline\shotgun\framework\tk-framework-unrealqt
 
